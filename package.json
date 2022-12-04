@@ -1,0 +1,19 @@
+{
+  "name": "connect-mongose-to-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-router": "^0.0.1",
+    "mongoose": "^6.7.5"
+  }
+}
